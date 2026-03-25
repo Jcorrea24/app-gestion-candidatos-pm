@@ -4,6 +4,7 @@ import Register from '../pages/Register.jsx'
 import Dashboard from '../pages/Dashboard.jsx'
 
 
+
 let routerApp = [
     {
         path: "/",
